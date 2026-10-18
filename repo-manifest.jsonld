@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/miguelgrinberg/python-engineio/commit/740d905780f559aa4ae66f80d2cec401174f80f2",
       "git:hexsha": "740d905780f559aa4ae66f80d2cec401174f80f2",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/miguelgrinberg/python-engineio/commit/4303b86e4f363e746957e6adecea303089e90f70",
